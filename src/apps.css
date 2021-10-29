@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+    
+    
+}
+.otherPage{
+    flex: 4;
+    /* background-color: darkcyan; */
+    height: 93vh;
+    padding: 20px;
+}
